@@ -9,8 +9,8 @@ SCANEER github link: https://github.com/SBIlab/SCANEER
 
 ## Requirements
 ---
-- python (v 2.7.13)
-- Java (v 1.7.0)
+- python (v 3.9.5)
+- Java (v 1.8.0)
 - Dependencies are listed in the requirements.txt file.
 
 ##  Usage
