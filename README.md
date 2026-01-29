@@ -10,11 +10,10 @@ SCANEER github link: https://github.com/SBIlab/SCANEER
 ## Requirements
 ---
 - python (v 2.7.13)
-- Biopython (v 1.72)
-- Numpy (v 1.15.4)
 - Java (v 1.7.0)
+- Dependencies are listed in the requirements.txt file.
 
-##Usage##
+##  Usage
 ---
 1. Clone the repository
 ```
@@ -40,4 +39,9 @@ python run_epiSCANEER.py
 5. Output files
 + All results will be saved in the ```output/``` directory.
 + The output directory is automatically created if it does not exist.
-     
++ The contents of each output file are as follows:
+     + ```*.aln_cn``` - A CLUSTAL format file containing a multiple sequence alignment to calculate covarying strength.
+     + ```*.coe_out_mcbasc``` - A text file containing the calculated covarying strengths of all combination of residue pairs.
+     + ```*.cn``` - A text file containing the number of co-evolutionary relationships of residues.
+     + ```*.coenet``` - A text file containing a residue-residue co-evolutionary network of the enzyme
+     + ```*.txt``` - A text file containing final epiSCI scores of mutations.
