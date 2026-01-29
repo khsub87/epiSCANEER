@@ -1,12 +1,7 @@
-asgiref==3.11.0
 biopython==1.77
-cffi==2.0.0
-cryptography==46.0.3
 networkx==3.2.1
 numpy==2.0.2
 psutil==7.2.1
-pycparser==2.23
-pytz==2025.2
 six==1.17.0
 typing_extensions==4.15.0
 xlsxwriter==3.2.9
