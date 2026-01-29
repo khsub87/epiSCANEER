@@ -24,4 +24,4 @@ for msa_path in file_list:
 	msa_dic = build_msa(msa_path)
 
 	# Construct co-evolutionary network and Calculating SCI
-    calc_epiSCI(base_pth, fasta_path, pm, prefix)
+    calc_epiSCI(base_pth, msa_dic, pm, prefix)
