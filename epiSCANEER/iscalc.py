@@ -1,7 +1,6 @@
 import sys, os, shutil
 from Bio import AlignIO
-
-from dhpylib import coe
+import coe
 
 # Global Function: get percentile rank
 def get_percentile_rank(aList, bReverse=False):

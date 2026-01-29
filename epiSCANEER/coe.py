@@ -1,5 +1,21 @@
 import os, sys
-from dhpylib import lib_path
+from __init__ import lib_path
+
+def check_conf_file():
+	f = open("./epiSCANEER/coe/Energetics.properties")
+	line_list = f.readlines()
+	HOME_DIR = line_list[4].strip().split("=")[1]
+	f.close()
+	if not os.path.isdir(HOME_DIR):
+		new_HOME_DIR = os.path.abspath("./epiSCANEER/coe")
+		fo = open("./epiSCANEER/coe/Energetics.properties", 'w')
+		for i, line in enumerate(line_list):
+			if i == 4: print >> fo, "HOME_DIRECTORY=%s" %new_HOME_DIR
+			else: print >> fo, line.strip()
+		fo.close()
+
+check_conf_file()
+
 
 class ProcCoe:
     # input aln, out coe file path are required

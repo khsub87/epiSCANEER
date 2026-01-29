@@ -1,6 +1,6 @@
 # IS Calculation Script
 import os, glob, sys, math, shutil
-from dhpylib import msa, coe, blast, iscalc
+from dhpylib import msa, coe, iscalc
 import numpy as np
 import networkx as nx
 import csv
@@ -13,7 +13,7 @@ def build_coevolution_score_dic(base_path, prefix, cn_kind):
         line = line.strip().split("\t")
         output_dic[(line[0], line[1])] = float(line[2])
     f.close()
-    return output_dic
+    return output_dicF
 
 def get_percentile_rank(aList, bReverse=False):
     step = 1.0 / (len(aList) - 1)

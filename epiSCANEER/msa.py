@@ -4,8 +4,7 @@ from Bio.Alphabet import SingleLetterAlphabet
 from Bio.Align import MultipleSeqAlignment
 from Bio.Seq import Seq
 from Bio.SeqRecord import SeqRecord
-from dhpylib import lib_path 
-from dhpylib import get_executable_arch
+from __init__ import *
 
 class ProcMsa:
     def __init__(self, input_fasta, output_aln, output_tree, method="muscle"):
