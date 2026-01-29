@@ -2,16 +2,11 @@ asgiref==3.11.0
 biopython==1.77
 cffi==2.0.0
 cryptography==46.0.3
-Django==4.2.27
-django-datetime-widget==0.9.3
 networkx==3.2.1
 numpy==2.0.2
 psutil==7.2.1
 pycparser==2.23
-PyMySQL==1.1.2
 pytz==2025.2
 six==1.17.0
-sqlparse==0.5.5
 typing_extensions==4.15.0
-uWSGI==2.0.31
 xlsxwriter==3.2.9
