@@ -1,0 +1,12 @@
+biopython==1.70
+certifi==2020.6.20
+decorator==4.4.0
+mkl-fft==1.0.15
+mkl-random==1.1.0
+mkl-service==2.3.0
+networkx==2.1
+numpy==1.16.6
+pandas==0.24.2
+python-dateutil==2.8.2
+pytz==2023.3.post1
+six==1.16.0

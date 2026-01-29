@@ -144,9 +144,9 @@ def get_AA_variance(msa_dic, pos):
     }
 
 
-def final_SCI(prefix):
+def final_epiSCI_normalization(prefix):
     infile = os.path.join(base_pth, f"{prefix}.doubleSCI_mp")
-    outfile = os.path.join(base_pth, f"{prefix}.epiSCI_final")
+    outfile = os.path.join(base_pth, f"{prefix}.txt")
 
     rows = []
 
@@ -253,5 +253,5 @@ def calc_epiSCI(base_pth, msa_dic, pm, prefix):
 					]
 					print("\t".join(map(str, row)), file=fo)
 	
-	final_SCI(prefix)
+	final_epiSCI_normalization(prefix)
 

@@ -1,7 +1,7 @@
 CLUSTAL X (1.81) multiple sequence alignment
 
 
-sp|Q1JUP4|KGSD1_AZOBR               --------------------------------------------------
+KGSADH                              --------------------------------------------------
 lcl|UniRef90_C5AA13                 --------------------------------------------------
 lcl|UniRef90_A0A0P0RDN5             --------------------------------------------------
 lcl|UniRef90_A0A1N7RVU1             --------------------------------------------------
@@ -252,7 +252,7 @@ lcl|UniRef90_A0A069PE37             --------------------------------------------
 lcl|UniRef90_K5YMI1                 --------------------------------------------------
 lcl|UniRef90_A6QQ10                 --------------------------------------------------
 
-sp|Q1JUP4|KGSD1_AZOBR               --------------------------------------------------
+KGSADH                              --------------------------------------------------
 lcl|UniRef90_C5AA13                 --------------------------------------------------
 lcl|UniRef90_A0A0P0RDN5             --------------------------------------------------
 lcl|UniRef90_A0A1N7RVU1             --------------------------------------------------
@@ -503,7 +503,7 @@ lcl|UniRef90_A0A069PE37             --------------------------------------------
 lcl|UniRef90_K5YMI1                 --------------------------------------------------
 lcl|UniRef90_A6QQ10                 --------------------------------------------------
 
-sp|Q1JUP4|KGSD1_AZOBR               --------------------------------------------------
+KGSADH                              --------------------------------------------------
 lcl|UniRef90_C5AA13                 --------------------------------------------------
 lcl|UniRef90_A0A0P0RDN5             --------------------------------------------------
 lcl|UniRef90_A0A1N7RVU1             --------------------------------------------------
@@ -754,7 +754,7 @@ lcl|UniRef90_A0A069PE37             --------------------------------------------
 lcl|UniRef90_K5YMI1                 --------------------------------------------------
 lcl|UniRef90_A6QQ10                 --------------------------------------------------
 
-sp|Q1JUP4|KGSD1_AZOBR               ------------------------MANVTYTDT-QLLIDGEWVDAASGKT
+KGSADH                              ------------------------MANVTYTDT-QLLIDGEWVDAASGKT
 lcl|UniRef90_C5AA13                 ------------------------MTNTNYTDT-QLLINGEWCDAASGKT
 lcl|UniRef90_A0A0P0RDN5             -----------------------MVTSSSYTDT-RLLINNEWCDAASGKT
 lcl|UniRef90_A0A1N7RVU1             ------------------------MAIPSYTDT-RLLINGEWCDAASGKT
@@ -1005,7 +1005,7 @@ lcl|UniRef90_A0A069PE37             ----------------------MSSTQSAYPDT-QLFIDGAWRA
 lcl|UniRef90_K5YMI1                 ----------------------------MYQDV-LLHIGGKWRAAEGNKT
 lcl|UniRef90_A6QQ10                 --------------------------------------------------
 
-sp|Q1JUP4|KGSD1_AZOBR               IDVVNPATGKPIGRVAHAGIADLDRALAAAQSGFEAWRKVPAHERAATMR
+KGSADH                              IDVVNPATGKPIGRVAHAGIADLDRALAAAQSGFEAWRKVPAHERAATMR
 lcl|UniRef90_C5AA13                 LDVVNPATGQVIGKVAHAGIADLDRALDAAQRGFETWRKVSAYERSALMR
 lcl|UniRef90_A0A0P0RDN5             LDVINPATGKPIGKVAHAGKADLDRALEAAQKGFEAWRKVPANERATTMR
 lcl|UniRef90_A0A1N7RVU1             LDVINPATGEAIGKVAHAGIADLDRALEAAQRGFEAWRKIPANERATTMR
@@ -1256,7 +1256,7 @@ lcl|UniRef90_A0A069PE37             TAVINPANEAQIGRLALAGEAELAQAADAAARGFSAWRKVSAFE
 lcl|UniRef90_K5YMI1                 LEILNPATEEVIGKLAHASKADLDEALDWAAKGFAVWRKMSAFERGKILR
 lcl|UniRef90_A6QQ10                 --------------------------------------------------
 
-sp|Q1JUP4|KGSD1_AZOBR               KAAALVRERADAIAQLMTQEQGKPLTEARVEVLSAADIIEWFADEGRRVY
+KGSADH                              KAAALVRERADAIAQLMTQEQGKPLTEARVEVLSAADIIEWFADEGRRVY
 lcl|UniRef90_C5AA13                 KAAALVRERANSIAQLMTLEQGKPLAEARIEVLSAADIIEWFADEGRRVY
 lcl|UniRef90_A0A0P0RDN5             KAAAFVRERADSIARLMTQEQGKPFAEARIEVLSAADIIEWFADEGRRVY
 lcl|UniRef90_A0A1N7RVU1             KAAALVRERASDIARLMTQEQGKPFAEARVEVLAAADIIEWFADEGRRVY
@@ -1507,7 +1507,7 @@ lcl|UniRef90_A0A069PE37             RAAQILRDRTEQIAAIMTMEQGKPLAEARIETLAAADIIDWFAE
 lcl|UniRef90_K5YMI1                 KTADILRERTPEIAKLMTQEQGKPLAEAKTELTVSADVIDWFAEEGRRAY
 lcl|UniRef90_A6QQ10                 ----------------------------------AADIIEWFADEGRRVY
 
-sp|Q1JUP4|KGSD1_AZOBR               GRIVPPR-NLGAQQTVVKEPVGPVAAFTPWNFPVNQVVRKLSAALATGCS
+KGSADH                              GRIVPPR-NLGAQQTVVKEPVGPVAAFTPWNFPVNQVVRKLSAALATGCS
 lcl|UniRef90_C5AA13                 GRIVPPR-NLAVQQTVVKEPVGPVAAFTPWNFPVNQVVRKLSAALATGCS
 lcl|UniRef90_A0A0P0RDN5             GRVVPSR-NLNAQSLVIKEPIGPVAAFTPWNFPVNQVVRKLSAALASGCS
 lcl|UniRef90_A0A1N7RVU1             GRIVPSR-NLAAQQLVLKEPIGPVAAFTPWNFPVNQVVRKLCAALACGCS
@@ -1758,7 +1758,7 @@ lcl|UniRef90_A0A069PE37             GRVIPSR-ADAVRQIVTREPVGPVAAFTPWNFPINQAVRKVSAA
 lcl|UniRef90_K5YMI1                 GRVIPAR-TPGVYQLSVREPVGVVAGFTPWNFPVSQAVRKISAALAAGCA
 lcl|UniRef90_A6QQ10                 GRIVPPR-NLGAQQTVVKEPVGPVAAFTPWNFPVNQVVRKLSAALATGCS
 
-sp|Q1JUP4|KGSD1_AZOBR               FLVKAPEETPASPAALLRAFVDAGVPAGVIGLVYGDPAEISSYLIPHPVI
+KGSADH                              FLVKAPEETPASPAALLRAFVDAGVPAGVIGLVYGDPAEISSYLIPHPVI
 lcl|UniRef90_C5AA13                 FLVKAPEETPASPAQLLRAFVDAGVPAGVVGLVYGDPAEISNYLIPHPVI
 lcl|UniRef90_A0A0P0RDN5             FLVKAPEETPASPAQLLQAFVDAGVPAGTVGLVFGDPAEISSYLIPHPVI
 lcl|UniRef90_A0A1N7RVU1             FLVKAPEETPASPAALLRAFVEAGVPAGTVGLVFGDPAEISGYLIPHPVI
@@ -2009,7 +2009,7 @@ lcl|UniRef90_A0A069PE37             VVLKGPEETPASCAALVQAYVDAGLPAGVLNLVFGVPADVSKYL
 lcl|UniRef90_K5YMI1                 FILKGPEETPASCAELVRAYVDAGVPTGVVQIIFGVPAEISEHLIPHPTV
 lcl|UniRef90_A6QQ10                 FLVKAPEETPASPAALLRAFVDAGVPAGVIGLVYGDPAEISSYLIPHPVI
 
-sp|Q1JUP4|KGSD1_AZOBR               RKVTFTGSTPVGKQLASLAGLHMKRATMELGGHAPVIVAEDADVALAVKA
+KGSADH                              RKVTFTGSTPVGKQLASLAGLHMKRATMELGGHAPVIVAEDADVALAVKA
 lcl|UniRef90_C5AA13                 RKITFTGSTPVGKQLAALAGQHMKRATMELGGHAPVIVAEDADLELAVKA
 lcl|UniRef90_A0A0P0RDN5             RKVTFTGSTPVGKQLAALAGQHMKRATMELGGHAPVIVAEDADVALAVKA
 lcl|UniRef90_A0A1N7RVU1             RKVTFTGSTPVGKQLAALAGAHMKRATMELGGHAPVIVADDADVALAVKA
@@ -2260,7 +2260,7 @@ lcl|UniRef90_A0A069PE37             RKISFTGSTAVGKLLASLAGEHMKRATMELGGHAPALVFADSDV
 lcl|UniRef90_K5YMI1                 RKISFTGSTPVGKHLAALAGKHMKRVTMELGGHAPAIVFDDADLDQAATV
 lcl|UniRef90_A6QQ10                 RKVTFTGSTPVGKQLASLAGLHMKRATMELGGHAPVIVAEDADVALAVKA
 
-sp|Q1JUP4|KGSD1_AZOBR               AGGAKFRNAGQVCISPTRFLVHNSIRDEFTRALVKHAEGLKVGNGLEEGT
+KGSADH                              AGGAKFRNAGQVCISPTRFLVHNSIRDEFTRALVKHAEGLKVGNGLEEGT
 lcl|UniRef90_C5AA13                 AGGAKFRNAGQVCISPTRFLVHNSVREAFVKALVKHAEGLKVGDGLEAGT
 lcl|UniRef90_A0A0P0RDN5             AGGAKFRNAGQVCISPTRFLVHNSIREEFAAALVKHAESLKVGDGLADGT
 lcl|UniRef90_A0A1N7RVU1             AGGAKFRNAGQVCISPTRFLVHNSIREEFVAALVKHAESLKLGDGLAEGT
@@ -2511,7 +2511,7 @@ lcl|UniRef90_A0A069PE37             LAAAKFRNAGQVCISPTRFLVEESAYEEFTQHFVATARAIKVGN
 lcl|UniRef90_K5YMI1                 LAAAKFRNAGQVCVAPTRFLIQQGAYEPFLEKFIGKVQAIKLGNGLDEGT
 lcl|UniRef90_A6QQ10                 AGGAKFRNAGQVCISPTRFLVHNSIRDEFTRALVKHAEGLKVGNGLEEGT
 
-sp|Q1JUP4|KGSD1_AZOBR               TLGALANPRRLTAMASVIDNARKVGASIETGGERIGSEGNFFAPTVIANV
+KGSADH                              TLGALANPRRLTAMASVIDNARKVGASIETGGERIGSEGNFFAPTVIANV
 lcl|UniRef90_C5AA13                 SLGPLANPRRLTAMEKVVADARKAGATVATGGERIGSAGNFFAPTVLADV
 lcl|UniRef90_A0A0P0RDN5             QLGPLANARRLTAMASIIENARATGATVATGGERIGSEGNFFAPTVLTDV
 lcl|UniRef90_A0A1N7RVU1             TLGPLANARRLTAMTKVLDDARKTGAKVETGGERVGNAGNFFAPTVLTNV
@@ -2762,7 +2762,7 @@ lcl|UniRef90_A0A069PE37             QMGALANGRRLEAMERLVADAREHGAKVLTGGERVGREGFFFAP
 lcl|UniRef90_K5YMI1                 TMGPLANDRRVSAMESIIADAVSKGAKVRTGGKRAGNKGYFFEPTVLTDV
 lcl|UniRef90_A6QQ10                 TLGALANPRRLTAMASVIDNARKVGASIETGGERIGSEGNFFAPTVIANV
 
-sp|Q1JUP4|KGSD1_AZOBR               PLDADVFNNEPFGPVAAIRGFDKLEEAIAEANRLPFGLAGYAFTRSFANV
+KGSADH                              PLDADVFNNEPFGPVAAIRGFDKLEEAIAEANRLPFGLAGYAFTRSFANV
 lcl|UniRef90_C5AA13                 PLDADVFNNEPFGPVAAVRGFDSLDDAITEANRLPYGLAGYAFTRSFKNV
 lcl|UniRef90_A0A0P0RDN5             TLEADVFNNEPFGPIAAIRGFDKLEDAIAEANRLPFGLAGYAFTKSFRNV
 lcl|UniRef90_A0A1N7RVU1             SLEADVFNNEPFGPIAAIRGFDKLEEAIAEANRLPFGLAGYAYTKSFSNV
@@ -3013,7 +3013,7 @@ lcl|UniRef90_A0A069PE37             PLSARIMTEEPFGPIAPISTFKSYDEAIAEANRLPYGLAAYAYT
 lcl|UniRef90_K5YMI1                 TLEAKVMNEEPFGPLAAFMPFATYDEVVAEANRLDYGLASYAFTRNTRQA
 lcl|UniRef90_A6QQ10                 PLDADVFNNEPFGPVAAIRGFDKLEEAIAEANRLPFGLAGYAFTRSFANV
 
-sp|Q1JUP4|KGSD1_AZOBR               HLLTQRLEVGMLWINQPATPWPEMPFGGVKDSGYGSEGGPEALEPYLVTK
+KGSADH                              HLLTQRLEVGMLWINQPATPWPEMPFGGVKDSGYGSEGGPEALEPYLVTK
 lcl|UniRef90_C5AA13                 HLLTQRVEVGMLWINQPATPWPEMPFGGVKDSGYGSEGGPEALEPYLVTK
 lcl|UniRef90_A0A0P0RDN5             HLLSQNLEVGMLWINQPATPTPEMPFGGVKDSGYGSEGGPEAMEAYLVTK
 lcl|UniRef90_A0A1N7RVU1             HLLSQQMEVGMLWINQPATPSPEMPFGGVKDSGYGSEGGPEAMEGYLVTK
@@ -3264,7 +3264,7 @@ lcl|UniRef90_A0A069PE37             AAVSNDIESGMVSINHHGLSLPETPFGGVKDSGYGSEGGSEAME
 lcl|UniRef90_K5YMI1                 AALGADIEAGMVTINHNGLAMPETPFGGVKDSGYGSEGGAEGLEPYLVTK
 lcl|UniRef90_A6QQ10                 HLLTQRLEVGMLWINQPATPWPEMPFGGVKDSGYGSEGGPEALEPYLVTK
 
-sp|Q1JUP4|KGSD1_AZOBR               SVTVMAV-------------------------------------------
+KGSADH                              SVTVMAV-------------------------------------------
 lcl|UniRef90_C5AA13                 SVTVAAV-------------------------------------------
 lcl|UniRef90_A0A0P0RDN5             AVTVMAV-------------------------------------------
 lcl|UniRef90_A0A1N7RVU1             AVSVMAV-------------------------------------------
@@ -3515,7 +3515,7 @@ lcl|UniRef90_A0A069PE37             FVTEHR--------------------------------------
 lcl|UniRef90_K5YMI1                 FVTQAGA-------------------------------------------
 lcl|UniRef90_A6QQ10                 SVTVMAVMTDPSKNYVNGEWVTSETGETTEVTNPANPSEVVAAYQHSNEN
 
-sp|Q1JUP4|KGSD1_AZOBR               --------------------------------------------------
+KGSADH                              --------------------------------------------------
 lcl|UniRef90_C5AA13                 --------------------------------------------------
 lcl|UniRef90_A0A0P0RDN5             --------------------------------------------------
 lcl|UniRef90_A0A1N7RVU1             --------------------------------------------------
@@ -3766,7 +3766,7 @@ lcl|UniRef90_A0A069PE37             --------------------------------------------
 lcl|UniRef90_K5YMI1                 --------------------------------------------------
 lcl|UniRef90_A6QQ10                 DAAAAVDAAVAAEDEWRNTPGPERGRILREAGTLLAQRKDELTEILTAEE
 
-sp|Q1JUP4|KGSD1_AZOBR               --------------------
+KGSADH                              --------------------
 lcl|UniRef90_C5AA13                 --------------------
 lcl|UniRef90_A0A0P0RDN5             --------------------
 lcl|UniRef90_A0A1N7RVU1             --------------------
